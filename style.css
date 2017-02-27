@@ -1,17 +1,18 @@
 body {
-  padding-left: 200px;
-  padding-right: 200px;
-}
-
-body {
   font-family: 'Josefin Sans', sans-serif;
+  text-align: center;
+ 
 }
 
 h1 {
   color: rgb(71, 169, 255);
-  text-align: center;
 }
 
 a {
   color: rgb(71, 169, 255);
+}
+
+ul {
+  list-style-type: none;
+  text-align: left;
 }
