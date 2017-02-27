@@ -1,0 +1,17 @@
+body {
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+body {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+h1 {
+  color: rgb(71, 169, 255);
+  text-align: center;
+}
+
+a {
+  color: rgb(71, 169, 255);
+}
